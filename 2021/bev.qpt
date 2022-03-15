@@ -1,0 +1,156 @@
+<Layout printResolution="300" worldFileMap="{bb3699ff-783e-46cc-8fe8-3789df996693}" units="mm" name="Layout-Bev">
+ <Snapper snapToItems="1" snapToGrid="0" tolerance="5" snapToGuides="1"/>
+ <Grid offsetUnits="mm" resUnits="mm" offsetY="0" resolution="10" offsetX="0"/>
+ <PageCollection>
+  <symbol alpha="1" force_rhr="0" type="fill" name="" clip_to_extent="1">
+   <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+    <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="35,35,35,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option type="QString" name="name" value=""/>
+      <Option name="properties"/>
+      <Option type="QString" name="type" value="collection"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem frameJoinStyle="miter" visibility="1" id="" zValue="0" positionOnPage="0,0,mm" frame="false" excludeFromExports="0" groupUuid="" background="true" referencePoint="0" type="65638" templateUuid="{0fa39428-c1c3-40b6-b666-31c45aaf98de}" position="0,0,mm" size="297,210,mm" outlineWidthM="0.3,mm" itemRotation="0" uuid="{0fa39428-c1c3-40b6-b666-31c45aaf98de}" opacity="1" blendMode="0" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option type="QString" name="name" value=""/>
+      <Option name="properties"/>
+      <Option type="QString" name="type" value="collection"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol alpha="1" force_rhr="0" type="fill" name="" clip_to_extent="1">
+    <layer locked="0" pass="0" enabled="1" class="SimpleFill">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option type="QString" name="name" value=""/>
+       <Option name="properties"/>
+       <Option type="QString" name="type" value="collection"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1">
+   <Guide page="0" position="204.39917610710609" units="mm" orientation="1"/>
+  </GuideCollection>
+ </PageCollection>
+ <LayoutItem frameJoinStyle="miter" visibility="1" id="" marginX="0" zValue="3" positionOnPage="221.692,200.215,mm" frame="false" excludeFromExports="0" groupUuid="" background="false" referencePoint="0" type="65641" templateUuid="{a3d1854e-8f12-402a-a371-670a08d1884a}" position="221.692,200.215,mm" size="36.2883,7.89949,mm" halign="8" outlineWidthM="0.3,mm" itemRotation="0" labelText="statistik.so.ch" uuid="{a3d1854e-8f12-402a-a371-670a08d1884a}" valign="32" marginY="0" opacity="1" htmlState="0" blendMode="0" positionLock="false">
+  <FrameColor alpha="255" red="0" blue="0" green="0"/>
+  <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="Bold" description="Frutiger LT Com 55 Roman,12,-1,5,81,0,0,0,0,0,Bold"/>
+  <FontColor alpha="255" red="0" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem minSymbolSize="0" boxSpace="2" rasterBorder="1" zValue="2" type="65642" symbolHeight="4" map_uuid="{bb3699ff-783e-46cc-8fe8-3789df996693}" symbolWidth="7" frame="false" excludeFromExports="0" position="220.692,113.802,mm" positionLock="false" size="35.2,50.4,mm" splitLayer="0" frameJoinStyle="miter" itemRotation="0" uuid="{48384a66-2ea4-48c3-860f-44e12283aef8}" templateUuid="{48384a66-2ea4-48c3-860f-44e12283aef8}" background="false" title="" legendFilterByAtlas="0" equalColumnWidth="0" wmsLegendHeight="25" outlineWidthM="0.3,mm" blendMode="0" positionOnPage="220.692,113.802,mm" referencePoint="0" groupUuid="" rasterBorderWidth="0" opacity="1" rasterBorderColor="0,0,0,255" symbolAlignment="1" wrapChar="" id="" columnSpace="2" wmsLegendWidth="50" maxSymbolSize="0" lineSpacing="1" resizeToContents="1" columnCount="1" fontColor="#000000" visibility="1" titleAlignment="1">
+  <FrameColor alpha="255" red="0" blue="0" green="0"/>
+  <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <styles>
+   <style alignment="1" marginBottom="3.5" name="title">
+    <styleFont style="" description="Frutiger LT Com 55 Roman,16,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style marginTop="3" alignment="1" name="group">
+    <styleFont style="" description="Frutiger LT Com 55 Roman,14,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style marginTop="3" alignment="1" name="subgroup">
+    <styleFont style="" description="Frutiger LT Com 55 Roman,12,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style marginTop="2.5" alignment="1" name="symbol">
+    <styleFont style="" description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style marginTop="2" alignment="1" marginLeft="2" name="symbolLabel">
+    <styleFont style="" description="Frutiger LT Com 55 Roman,12,-1,5,50,0,0,0,0,0"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties/>
+   <layer-tree-layer source="./gemeindegrenzen_join.gpkg|layername=gemeindegrenzen_join" legend_split_behavior="0" id="gemeindegrenzen_join_ad77da42_ba3b_496e_9304_2cd316f43130" expanded="1" checked="Qt::Checked" legend_exp="" name="gemeindegrenzen_diff" providerKey="ogr" patch_size="0,0">
+    <customproperties>
+     <property key="cached_name" value=" "/>
+     <property key="legend/title-label" value=" "/>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0"/>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem drawCanvasItems="true" followPreset="false" frameJoinStyle="miter" visibility="1" labelMargin="0,mm" id="" zValue="1" positionOnPage="6.66519,4.69032,mm" frame="false" mapFlags="0" excludeFromExports="0" groupUuid="" background="true" referencePoint="0" type="65639" templateUuid="{bb3699ff-783e-46cc-8fe8-3789df996693}" position="6.66519,4.69032,mm" size="288.084,203.905,mm" outlineWidthM="0.3,mm" itemRotation="0" uuid="{bb3699ff-783e-46cc-8fe8-3789df996693}" mapRotation="0" keepLayerSet="false" opacity="1" blendMode="0" positionLock="false" followPresetName="" isTemporal="0">
+  <FrameColor alpha="255" red="0" blue="0" green="0"/>
+  <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="1262592.48675780231133103" ymin="1212583.74300780007615685" xmax="2653679.55224264273419976" xmin="2583025.55229560611769557"/>
+  <LayerSet/>
+  <AtlasMap atlasDriven="0" scalingMode="2" margin="0.10000000000000001"/>
+  <labelBlockingItems/>
+  <atlasClippingSettings restrictLayers="0" enabled="0" forceLabelsInside="0" clippingType="0">
+   <layersToClip/>
+  </atlasClippingSettings>
+  <itemClippingSettings clipSource="" enabled="0" forceLabelsInside="0" clippingType="0"/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="imageAntialias" value="true"/>
+  <property key="imageCropMarginBottom" value="0"/>
+  <property key="imageCropMarginLeft" value="0"/>
+  <property key="imageCropMarginRight" value="0"/>
+  <property key="imageCropMarginTop" value="0"/>
+  <property key="imageCropToContents" value="false"/>
+ </customproperties>
+ <Atlas coverageLayer="" pageNameExpression="" sortFeatures="0" filterFeatures="0" enabled="0" hideCoverage="0" filenamePattern="'output_'||@atlas_featurenumber"/>
+</Layout>
